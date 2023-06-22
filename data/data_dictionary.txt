@@ -1,0 +1,7 @@
+Individual ID: This refers to an individual nest.
+
+Mass: The mass (in grams) of an individual nest.
+
+Average Ambient Temperature: The temperature around the nest area (in degrees Celsius).
+
+Average Incubation Temperature: The temperature of the eggs while being incubated (in degrees Celsius).
